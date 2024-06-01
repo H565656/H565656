@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Ask me about Minecraft Servers.<br>⚡ Fun fact I'm cool
+💬 Ask me about Linux Servers.<br>⚡ Fun fact I'm cool
 
 
 # 💻 Tech Stack:
